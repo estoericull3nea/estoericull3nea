@@ -15,9 +15,9 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **C++ , JAVA**
+- 💬 Ask me about **C++ , JAVA, Web Development**
 
-- 📫 How to reach me **palisocericson87@gmail.com**
+- 📫 Reach me out at **palisocericson87@gmail.com**
 
 <br/><br/>
 
