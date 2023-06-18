@@ -2,7 +2,7 @@
 <br><br><br/>
 <h1 align="center">Hi, I'm Ericson Palisoc 🦑</h1>
 <br/><br/>
-<img align="right" alt="Coding" width="40%" height="250" src="https://68.media.tumblr.com/0a8f43bd718c9e8d51c2ec3e1b150f35/tumblr_nt1xuuqfR41slm9c9o1_500.gif"/>
+<img align="right" alt="Coding" width="35%" height="380" src="https://68.media.tumblr.com/0a8f43bd718c9e8d51c2ec3e1b150f35/tumblr_nt1xuuqfR41slm9c9o1_500.gif"/>
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-<br/>
+<br/> <br/> <br/><br/>
 
 
 <h3 align="center">Languages and Tools:</h3>
