@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://i.redd.it/q3z1k0zc7umy.gif)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/https://i.redd.it/q3z1k0zc7umy.gif)]
 <h1 align="center">Hi 👋, I'm Ericson Palisoc</h1>
 <h3 align="center">A 2nd yr IT student who always seeks an opportunity to apply the learning in the real world.</h3>
 
