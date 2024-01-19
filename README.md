@@ -6,7 +6,7 @@
 
 <br/>
 
-<h4 align="center">A 2nd yr IT student who always seeks an opportunity to apply the learning in the real world.</h4> &nbsp;&nbsp;&nbsp;
+<h4 align="center">A 3rd year IT student who always seeks an opportunity to apply the learning in the real world.</h4> &nbsp;&nbsp;&nbsp;
 
 <br/>
 
